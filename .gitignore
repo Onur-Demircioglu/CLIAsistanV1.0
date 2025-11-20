@@ -1,0 +1,23 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+
+# Visual Studio files
+.vs/
+*.suo
+
+# Logs and History
+*.log
+history_*.txt
+agent_output_*.txt
+
+# Environment
+qwen_env/
+.env
+
+# OS generated files
+Thumbs.db
+.DS_Store
